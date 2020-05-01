@@ -1,0 +1,27 @@
+@font-face {
+  font-family: "DsDigital";
+  src: url(/_fonts/ds_digital/DS-DIGIT.TTF);
+}
+
+body {
+  position: relative;
+  width: 100%;
+  height: 100%;
+
+  background-color: rgb(211, 211, 211);
+}
+
+.container {
+  width: 800px;
+  margin: auto;
+}
+
+#watch {
+  margin: auto;
+}
+
+#time {
+  font-size: 70pt;
+  text-align: center;
+  font-family: "DsDigital";
+}
